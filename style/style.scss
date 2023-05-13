@@ -106,7 +106,6 @@ $bg-color-rights: #2c3e51;
     background-color: transparent;
     border: none;
     @include logos;
-    text-decoration: none;
 
     .image {
         display: block;
@@ -147,6 +146,10 @@ $bg-color-rights: #2c3e51;
 
     .fa-plus:hover {
         color: #eee;
+    }
+
+    .container-lemon-pie {
+        text-decoration: none;
     }
 }
 
