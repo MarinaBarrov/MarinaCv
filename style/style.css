@@ -125,8 +125,9 @@
 .container-img .fa-plus:hover {
   color: #eee;
 }
-.container-img .container-lemon-pie {
+.container-img h5 {
   text-decoration: none;
+  color: black;
 }
 
 .container-about-me {
