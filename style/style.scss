@@ -106,6 +106,7 @@ $bg-color-rights: #2c3e51;
     background-color: transparent;
     border: none;
     @include logos;
+    text-decoration: none;
 
     .image {
         display: block;
@@ -152,7 +153,6 @@ $bg-color-rights: #2c3e51;
 .container-about-me {
     padding: 1rem;
     background-color: $bg-color-main;
-    height: 72vh;
 
     h2 {
         text-align: center;

@@ -75,6 +75,7 @@
   max-width: 400px;
   background-color: transparent;
   border: none;
+  text-decoration: none;
 }
 .container-img .container-lemon-pie {
   display: flex;
@@ -129,7 +130,6 @@
 .container-about-me {
   padding: 1rem;
   background-color: #c2b2b4;
-  height: 72vh;
 }
 .container-about-me h2 {
   text-align: center;
